@@ -14,5 +14,5 @@
 
 def speak_to_grandma(phrase)
   if 'Hi grandma'!= phrase.upcase
-    puts 'HUH?! SPEAK UP, SONNY!'
+    return 'HUH?! SPEAK UP, SONNY!'
 end 
